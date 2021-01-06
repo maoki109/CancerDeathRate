@@ -1,4 +1,4 @@
-# CancerDeathRate
+# Cancer Death Rate
 DPhi Machine Learning Bootcamp Datathon 2 / Assignment 3
 
 ## Objective
